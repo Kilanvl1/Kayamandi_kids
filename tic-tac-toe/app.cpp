@@ -29,7 +29,7 @@ void findPlaceOnBoard() {
         std::cin>>digit; 
     }
     if(token=='0') {
-        std::cout<<player2Name<<" Please enter the number where you would like to play";
+        std::cout<<player2Name<<" Please enter the number where you would like to play ";
         std::cin>>digit; 
     }
 
